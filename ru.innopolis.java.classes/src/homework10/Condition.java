@@ -22,8 +22,8 @@ public class Condition {
             }
 
                 System.out.println("Массив с числами: " + Arrays.toString(array));
-                System.out.println("Четные числа: " + Arrays.toString(Sequence.filter(array, NumbEven));
-                System.out.println("Сумма четных чисел: " + Arrays.toString(Sequence.filter(array, Sumofnumbers));
+                System.out.println("Четные числа: " + Arrays.toString(Sequence.filter(array, NumbEven)));
+                System.out.println("Сумма четных чисел: " + Arrays.toString(Sequence.filter(array, Sumofnumbers)));
 
             }
         }
